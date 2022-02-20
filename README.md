@@ -1,0 +1,2 @@
+# TM-LoadAll
+Tampermonkey-LoadAll
