@@ -14,8 +14,8 @@
 // @updateURL          https://raw.githubusercontent.com/HaleShaw/TM-LoadAll/main/LoadAll.user.js
 // @contributionURL    https://www.jianwudao.com/
 // @icon               data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAqpJREFUWEfNV91x2kAQ3tUg4C2kgigz1klvgQpMKjCpAFKBoYKYCuJUgKnAdgUmFQS/SacX0oH8hhhG61mNjjkrEpLCz5gXodP+fLf73e4eQsWfZVmdZrN5jYhhFEXz1WoVsqpt2yNE/JGamUgpHyqaTMSwqrAQ4g8AdFP5uZRy5LquFccxr3fS9XCz2XxW4KrYrgOANIMvUsqO67r9OI6fdEdE1AuCYCmEGBDRJSIupZTzIjC5AGzb7iLiFRE9sjFWdhxnwQb5PxH9CoJgnF1HxN++7/cdxxkT0U/N6VRKeZMH4h8AmbCGhmH0PM9bMQdardYojuMwCII7ZUyt87vv+7f8zKSLl0Ip5ceqAN6E1TCMr57nLarkU8kIIZiIV5rOs5RS8eeNqdwUCCE47F8AoFBxH6A0hQz6AwC8EFFfpTKrV0hCTgWHvs7OdVlOTbvd7q7X64RDpmneI2IfAJZE9F0B2gG4uLi4bDQafw9xWgTWtu2n1LkS4ZPR29UB27ZvEfGayaJI9787z9MTQuhHOBFRxzWJgJZzfv1Wt5qVgRVCcCo/ZeuIHgEupzM+x1EUDepUsjLn/D1LSgAYqU1WroRVHO2TUaQEgJXOs7MBYHBp6Z4BgAUAd5vNZnI2ADmNi4m4QG6nADAEgElRsTg0/CnRuReotr0zieqIqEZyDGd5NnIaVCLGALixDNPqtGsyxwaSDjRcFfXjOD0bB3hDDMI0zRtEtIjogbvqWQHkRfX9AOBmtN1un49dBcu4lERAY+ijlHJQpnTM76oZsdN7fdY7ppN9tnYcYIaeOvx5Q877IeG5Qp71U3Qv4AlpeIrpqA6AkWEY3UNmRL4dlU1XJ+UAT0JlHbYygLSZzIhomjVaxVERx+oCWBiGMc7elHjoJKJB2W7zQLwCw2dToqZ5g1sAAAAASUVORK5CYII=
-// @match              https://wenku.baidu.com/view/*.html
-// @match              https://www.renrendoc.com/paper/*.html
+// @match              https://wenku.baidu.com/view/*
+// @match              https://www.renrendoc.com/paper/*
 // @compatible	       Chrome
 // @grant              GM_addStyle
 // @grant              GM_info

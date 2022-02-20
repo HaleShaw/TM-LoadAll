@@ -2,9 +2,9 @@
 
 Tampermonkey-LoadAll
 
-加载所有页。
+自动加载所有页，不用再每次手动点击“继续阅读”按钮。
 
-Load all the pages.
+Automatically load all the pages without manually clicking the "Continue reading" button.
 
 ## 支持的网站
 
